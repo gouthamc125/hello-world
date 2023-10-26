@@ -4,7 +4,7 @@
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="lightgrey">  
+<body bgcolor="lightyellowish">  
 <br>  
 <br>  
 <form>  
